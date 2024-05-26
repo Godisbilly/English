@@ -7,12 +7,6 @@
 	},
 	"pages": [
 		{
-			"path": "pages/user/user",
-			"style": {
-				"navigationStyle": "custom"
-			}
-		},
-		{
 			"path": "pages/words/words",
 			"style": {
 				"navigationStyle": "custom"
@@ -26,6 +20,12 @@
 		},
 		{
 			"path": "pages/articles/articles",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/user",
 			"style": {
 				"navigationStyle": "custom"
 			}

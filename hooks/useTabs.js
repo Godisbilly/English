@@ -1,5 +1,5 @@
 import {ref,computed} from 'vue'
-const tabbar = ref(3)
+const tabbar = ref(0)
 
 const tabbarItems = ref([
   {
