@@ -9,25 +9,25 @@
 		{
 			"path": "pages/words/words",
 			"style": {
-				"navigationBarTitleText": "words"
+				"navigationStyle": "custom"
 			}
 		},
 		{
 			"path": "pages/sentences/sentences",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationStyle": "custom"
 			}
 		},
 		{
 			"path": "pages/articles/articles",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationStyle": "custom"
 			}
 		},
 		{
 			"path": "pages/user/user",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationStyle": "custom"
 			}
 		}
 	],

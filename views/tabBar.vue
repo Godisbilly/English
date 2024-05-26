@@ -15,7 +15,7 @@ import {  tabbar,tabbarItems,activeBgColor,activeColor} from "@/hooks/useTabs"
 
 <style lang="scss" scoped>
 :deep(.wd-tabbar) {
-  height: 60px !important;
+  height: 45px !important;
 }
 
 .wd-tabbar-item {

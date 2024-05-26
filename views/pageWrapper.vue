@@ -1,5 +1,6 @@
 <template>
   <view class="pageWrapper">
+    <navBar></navBar>
     <view>
       <slot name="default"></slot>
     </view>
@@ -10,6 +11,7 @@
 
 <script name="pageWrapper" setup>
 import tabBar from "./tabBar.vue";
+import navBar from "./navBar.vue";
 
 </script>
 
