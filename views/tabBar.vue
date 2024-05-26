@@ -6,7 +6,7 @@
   </wd-tabbar>
 </template>
 
-<script lang="ts" name="tabBar" setup>
+<script name="tabBar" setup>
 import {  tabbar,tabbarItems,activeBgColor,activeColor} from "@/hooks/useTabs"
 
 

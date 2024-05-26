@@ -4,7 +4,7 @@
   </pageWrapper>
 </template>
 
-<script lang="ts" setup name="words">
+<script setup name="words">
 import pageWrapper from "/views/pageWrapper";
 
 </script>

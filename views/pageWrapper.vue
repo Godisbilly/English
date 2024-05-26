@@ -8,7 +8,7 @@
 </template>
 
 
-<script lang="ts" name="pageWrapper" setup>
+<script name="pageWrapper" setup>
 import tabBar from "./tabBar.vue";
 
 </script>
