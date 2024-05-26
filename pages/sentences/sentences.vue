@@ -1,12 +1,13 @@
 <template>
-  <view>
-
-  </view>
+  <pageWrapper>
+    <view>sentences</view>
+  </pageWrapper>
 </template>
 
+<script setup name="words">
+import pageWrapper from "/views/pageWrapper";
 
-<script setup></script>
-
+</script>
 
 
 <style lang="scss" scoped></style>
