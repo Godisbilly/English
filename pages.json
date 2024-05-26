@@ -5,34 +5,6 @@
 			"^wd-(.*)": "wot-design-uni/components/wd-$1/wd-$1.vue"
 		}
 	},
-	"tabBar": {
-		"color": "#aaa",
-		"selectedColor": "#000",
-		"borderStyle": "black",
-		"backgroundColor": "#fff",
-		"height": "35px",
-		"fontSize": "16px",
-		"position": "bottom",
-		"blurEffect": "extralight",
-		"list": [
-			{
-				"pagePath": "pages/words/words",
-				"text": "words"
-			},
-			{
-				"pagePath": "pages/sentences/sentences",
-				"text": "sentences"
-			},
-			{
-				"pagePath": "pages/articles/articles",
-				"text": "articles"
-			},
-			{
-				"pagePath": "pages/user/user",
-				"text": "user"
-			}
-		]
-	},
 	"pages": [
 		{
 			"path": "pages/words/words",

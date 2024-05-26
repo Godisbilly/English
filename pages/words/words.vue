@@ -1,10 +1,13 @@
 <template>
-  <view>
-
-  </view>
+  <pageWrapper>
+    abandon123
+  </pageWrapper>
 </template>
 
+<script lang="ts" setup name="words">
+import pageWrapper from "/views/pageWrapper";
 
-<script lang="ts" setup></script>
+</script>
+
 
 <style lang="scss" scoped></style>
