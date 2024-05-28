@@ -11,11 +11,9 @@
 
 <script setup name="words">
 import pageWrapper from "/views/pageWrapper"
-
 import { ref } from "vue"
 
 const value = ref(Date.now())
-
 function handleChange (val) { }
 const cells = ref([
   {
